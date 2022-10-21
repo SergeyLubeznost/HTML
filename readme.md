@@ -9,8 +9,8 @@
         <img src="images/Без названия (2).jpg" alt="" width="100%" height="100px">
        <div bgcolor="#c0c0c0">
         <a href="#">Главная</a>
-        <a href="about.html">О нас</a>
-        <a href="contacts.html">Контакты</a>
+        <a href="pages/about.html">О нас</a>
+        <a href="pages/contacts.html">Контакты</a>
     </div>
     </header>
     <main align="center">
